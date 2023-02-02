@@ -1,1 +1,1 @@
-git merge remote/origin/main
+git pull
